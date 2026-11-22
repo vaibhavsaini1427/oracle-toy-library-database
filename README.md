@@ -6,6 +6,8 @@ The project covers database modelling, normalisation, Oracle implementation and 
 
 Developed by Vaibhav Saini for ICT285 at Murdoch University.
 
+## If GitHub cannot display a preview, click “View raw” to download and open the report.
+
 ## [View or download my SQL database assignment](https://github.com/vaibhavsaini1427/oracle-toy-library-database/blob/main/vs_285%20assignment%202.docx)
 
 ## Project Objectives
