@@ -5,6 +5,7 @@ A relational database project supporting the operations of a toy library across 
 The project covers database modelling, normalisation, Oracle implementation and SQL reporting. It manages toy inventory and storage alongside memberships, borrowing, volunteer shifts, repairs and events.
 
 Developed by Vaibhav Saini for ICT285 at Murdoch University.
+[View or download my SQL database assignment](PASTE_FILE_URL_HERE)
 
 ## Project Objectives
 
